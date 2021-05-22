@@ -1,11 +1,9 @@
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![alt text](./image.png)
-
-<h2>👨🏻‍💻  About Me </h2>
 
 - 👀 I'm a web developer and work in related technologies, and have also worked with pyton and many popular libraries.
-- 🎓  I'm currently studying Msc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2020-2022).
+- 🎓  I'm currently studying Msc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (Batch 2020-2022).
 - 🌱 I'm on track for learning more about web development.
 - ✍️  In my free time, I play Games, Paint and Cook as my hobbies.
 - 📫 You can email me at soniriya243@gmail.com. I'll try to respond as soon as possible!
