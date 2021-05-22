@@ -6,7 +6,7 @@
 - 🎓  I'm currently studying Msc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2020-2022).
 - 🌱 I'm on track for learning more about web development.
 - ✍️  In my free time, I play Games, Paint and Cook as my hobbies.
-- 📫 You can email me at soniriya243@gmail.com@gmail.com. I'll try to respond as soon as possible!
+- 📫 You can email me at soniriya243@gmail.com. I'll try to respond as soon as possible!
 - 📄  You can check my [Resume](https://drive.google.com/file/d/1G4A4Q6cxFBqhEujbDgnKlY86ZJo7JKyn/view?usp=sharing "Resume") for more details.
 <br/>
 <br/>
@@ -52,6 +52,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<h2>🛠 Tools and Technologies </h2>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
